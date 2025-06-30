@@ -143,6 +143,3 @@ CREATE TABLE productos (
 );
 ```
 
----
-
-¿Te gustaría que esta guía te la exporte como un archivo `.txt` o `.pdf`?
